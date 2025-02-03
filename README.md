@@ -1,5 +1,6 @@
 # 🚀 API Tester
 > ⚠️ Note: Backend requires self-hosting (not provided due to hosting costs)
+
 > 🔍 Easy-to-use API testing tool with HTTP, WebSocket, and GraphQL support
 
 ## ⚡ Features
